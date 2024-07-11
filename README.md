@@ -1,11 +1,12 @@
 ### Hello
 
-I’m [André](https://laszlo.nu).
+I’m [André](https://laszlo.nu), GitHub user number [21381](https://api.github.com/users/andrelaszlo).
 
 - 🔨 I’m currently working with DevOps at [Kisi](https://www.getkisi.com). We're usually [hiring](https://www.getkisi.com/careers).
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/andrelaszlo/)
-  - [Stack Overflow](https://stackoverflow.com/users/98057/andr%c3%a9-laszlo)
+  - [Stack Overflow](https://stackoverflow.com/users/98057/andr%c3%a9-laszlo) \
+    ![André's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=98057&layout=compact)
   - [andre@laszlo.nu](mailto:andre@laszlo.nu)
 - 🍪 More or less recent contributions
   - [sparklemotion/http-cookie - Fix error formatting bug in HTTP::CookieJar::AbstractStore](https://github.com/sparklemotion/http-cookie/pull/42)
