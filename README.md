@@ -2,7 +2,7 @@
 
 I’m [André](https://laszlo.nu), GitHub user number [21381](https://api.github.com/users/andrelaszlo).
 
-- 🔨 I’m currently working with DevOps at [Kisi](https://www.getkisi.com). We're usually [hiring](https://www.getkisi.com/careers).
+- 🔨 I’m open to work from January 2025, either remote/Stockholm or as a contractor
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/andrelaszlo/)
   - [Stack Overflow](https://stackoverflow.com/users/98057/andr%c3%a9-laszlo) \
