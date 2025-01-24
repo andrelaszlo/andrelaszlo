@@ -9,7 +9,7 @@ I’m [André](https://laszlo.nu), GitHub user number [21381](https://api.github
     ![André's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=98057&layout=compact)
   - [andre@laszlo.nu](mailto:andre@laszlo.nu)
 - 🍪 Some contributions
-  - [basecamp/kamal - Add GCP Secret Manager adapter]([https://github.com/basecamp/kamal/commit/93133cd7a914797c2bec7f2900586e3bade63a3f](https://github.com/basecamp/kamal/pull/1236))
+  - [basecamp/kamal - Add GCP Secret Manager adapter](https://github.com/basecamp/kamal/pull/1236)
   - [sparklemotion/http-cookie - Fix error formatting bug in HTTP::CookieJar::AbstractStore](https://github.com/sparklemotion/http-cookie/pull/42)
   - [k0sproject/k0sctl - Linux configurer: don't crash when netmask is 255.255.255.255](https://github.com/k0sproject/k0sctl/pull/297)
   - [ncr/rack-proxy - Bump deps and fix tests](https://github.com/ncr/rack-proxy/pull/101/files)
