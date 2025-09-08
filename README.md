@@ -2,7 +2,7 @@
 
 I’m [André](https://laszlo.nu), GitHub user number [21381](https://api.github.com/users/andrelaszlo).
 
-- 🔨 I’m open to work from September 2025, either remote/Stockholm or as a contractor
+- 🔨 I work at [Divio](https://divio.com), as an SRE.
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/andrelaszlo/)
   - [Stack Overflow](https://stackoverflow.com/users/98057/andr%c3%a9-laszlo) \
